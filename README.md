@@ -1,13 +1,13 @@
 ### Hello! 👋 My name is Ekaterina. Welcome! :raised_hand:
 ### About me
-> I am programmer from Eyisk :green_book:
+* I am programmer from Eyisk :green_book:
 
-I'm interested in java since 2019
+* I'm interested in java since 2019
 
-My Java expirience since 2025 :alarm_clock:
+* My Java expirience since 2025 :alarm_clock:
 
 ### Core technologies:
-Java, Spring, Spring Boot, Hibernate, PostgreSQL, Liquibase, SQL, Maven
+*** Java, Spring, Spring Boot, Hibernate, PostgreSQL, Liquibase, SQL, Maven
 
 
 <!--
