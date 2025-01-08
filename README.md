@@ -1,6 +1,6 @@
 ### Hello! 👋 My name is Ekaterina. Welcome! :raised_hand:
 ### About me
-I am programmer from Eyisk :green_book:
+> I am programmer from Eyisk :green_book:
 
 I'm interested in java since 2019
 
